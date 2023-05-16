@@ -1,0 +1,8 @@
+s
+
+ busca por ordenação:
+
+ bubble sort ( varre os dados de forma sequencial)
+
+
+ https://visualgo.net/en/sorting
